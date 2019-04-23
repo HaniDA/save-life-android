@@ -1,0 +1,722 @@
+fileFormatVersion: 2
+guid: 518fdcd90ff6f7741881e4f4ea3a9a3b
+timeCreated: 1497870589
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Icons-Clicked_0
+    21300002: Icons-Clicked_1
+    21300004: Icons-Clicked_2
+    21300006: Icons-Clicked_3
+    21300008: Icons-Clicked_4
+    21300010: Icons-Clicked_5
+    21300012: Icons-Clicked_6
+    21300014: Icons-Clicked_7
+    21300016: Icons-Clicked_8
+    21300018: Icons-Clicked_9
+    21300020: Icons-Clicked_10
+    21300022: Icons-Clicked_11
+    21300024: Icons-Clicked_12
+    21300026: Icons-Clicked_13
+    21300028: Icons-Clicked_14
+    21300030: Icons-Clicked_15
+    21300032: Icons-Clicked_16
+    21300034: Icons-Clicked_17
+    21300036: Icons-Clicked_18
+    21300038: Icons-Clicked_19
+    21300040: Icons-Clicked_20
+    21300042: Icons-Clicked_21
+    21300044: Icons-Clicked_22
+    21300046: Icons-Clicked_23
+    21300048: Icons-Clicked_24
+    21300050: Icons-Clicked_25
+    21300052: Icons-Clicked_26
+    21300054: Icons-Clicked_27
+    21300056: Icons-Clicked_28
+    21300058: Icons-Clicked_29
+    21300060: Icons-Clicked_30
+    21300062: Icons-Clicked_31
+    21300064: Icons-Clicked_32
+    21300066: Icons-Clicked_33
+    21300068: Icons-Clicked_34
+    21300070: Icons-Clicked_35
+    21300072: Icons-Clicked_36
+    21300074: Icons-Clicked_37
+    21300076: Icons-Clicked_38
+    21300078: Icons-Clicked_39
+    21300080: Icons-Clicked_40
+    21300082: Icons-Clicked_41
+    21300084: Icons-Clicked_42
+    21300086: Icons-Clicked_43
+    21300088: Icons-Clicked_44
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icons-Clicked_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 332
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 332
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_3
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 332
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 332
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 332
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_6
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 332
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 332
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 332
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_9
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 332
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 249
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_12
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 249
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_13
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 249
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 249
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 249
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 249
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 249
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_18
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 249
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_19
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 249
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_21
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 168
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_22
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 168
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_23
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 168
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_25
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 168
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_26
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 168
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 168
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_28
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 168
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_29
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 168
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 83
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 83
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 83
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 83
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 83
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_36
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 83
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 83
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 83
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_39
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 83
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_41
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_42
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_43
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icons-Clicked_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

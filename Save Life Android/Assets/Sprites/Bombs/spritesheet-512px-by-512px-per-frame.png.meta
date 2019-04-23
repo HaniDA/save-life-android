@@ -1,0 +1,498 @@
+fileFormatVersion: 2
+guid: 58cac2af1fac0114ebd0c4e9c4012aae
+timeCreated: 1497409525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet-512px-by-512px-per-frame_0
+    21300002: spritesheet-512px-by-512px-per-frame_1
+    21300004: spritesheet-512px-by-512px-per-frame_2
+    21300006: spritesheet-512px-by-512px-per-frame_3
+    21300008: spritesheet-512px-by-512px-per-frame_4
+    21300010: spritesheet-512px-by-512px-per-frame_5
+    21300012: spritesheet-512px-by-512px-per-frame_6
+    21300014: spritesheet-512px-by-512px-per-frame_7
+    21300016: spritesheet-512px-by-512px-per-frame_8
+    21300018: spritesheet-512px-by-512px-per-frame_9
+    21300020: spritesheet-512px-by-512px-per-frame_10
+    21300022: spritesheet-512px-by-512px-per-frame_11
+    21300024: spritesheet-512px-by-512px-per-frame_12
+    21300026: spritesheet-512px-by-512px-per-frame_13
+    21300028: spritesheet-512px-by-512px-per-frame_14
+    21300030: spritesheet-512px-by-512px-per-frame_15
+    21300032: spritesheet-512px-by-512px-per-frame_16
+    21300034: spritesheet-512px-by-512px-per-frame_17
+    21300036: spritesheet-512px-by-512px-per-frame_18
+    21300038: spritesheet-512px-by-512px-per-frame_19
+    21300040: spritesheet-512px-by-512px-per-frame_20
+    21300042: spritesheet-512px-by-512px-per-frame_21
+    21300044: spritesheet-512px-by-512px-per-frame_22
+    21300046: spritesheet-512px-by-512px-per-frame_23
+    21300048: spritesheet-512px-by-512px-per-frame_24
+    21300050: spritesheet-512px-by-512px-per-frame_25
+    21300052: spritesheet-512px-by-512px-per-frame_26
+    21300054: spritesheet-512px-by-512px-per-frame_27
+    21300056: spritesheet-512px-by-512px-per-frame_28
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_0
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1690
+        width: 184
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_1
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1690
+        width: 183
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_2
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1690
+        width: 184
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_3
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1690
+        width: 185
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_4
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1690
+        width: 184
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1177
+        width: 219
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_6
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1177
+        width: 232
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_7
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1177
+        width: 211
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_8
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1215
+        width: 179
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_9
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1170
+        width: 240
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 647
+        width: 264
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_11
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 618
+        width: 294
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_12
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 592
+        width: 338
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_13
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 567
+        width: 387
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_14
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 851
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_15
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 570
+        width: 430
+        height: 407
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_16
+      rect:
+        serializedVersion: 2
+        x: 2359
+        y: 542
+        width: 168
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_17
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 364
+        width: 124
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 478
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 360
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_20
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 364
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_21
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 37
+        width: 477
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_22
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 362
+        width: 148
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_23
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 364
+        width: 124
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_24
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 37
+        width: 477
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_25
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 362
+        width: 146
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_26
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 165
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_27
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 2
+        width: 166
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: spritesheet-512px-by-512px-per-frame_28
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 2
+        width: 167
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

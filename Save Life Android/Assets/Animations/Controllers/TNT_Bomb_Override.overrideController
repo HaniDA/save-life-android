@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TNT_Bomb_Override
+  m_Controller: {fileID: 9100000, guid: c0186c22d8238cf479b075ad10ef9f64, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 440b9ae8014d6744186abeb75f1cf1bc, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: bdb46c3840854f4419814ad50a6d4523, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: c8333f7d910eb9642a9624f11d912b70, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 89a704af7bd3cb046a369e2b9aa4c872, type: 2}
