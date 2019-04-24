@@ -20,3 +20,4 @@ Game link :
 https://play.google.com/store/apps/details?id=com.TortoiseDev.SaveLife
 
 Twitter : @HaniDabash
+Discord : HaniDA #6149
