@@ -1,7 +1,9 @@
 # save-life-android
 A simple clicking game for android .. 
 
-I created this game 2 years a go , It's a very simple game , In this game you try to save the life of a migrant bird through WW2 .
+I created this game 2 years ago , It's a very simple game .
+
+In this game you try to save the life of a migrant bird through WW2 .
 
 The bird trying to fly but the bombs coming from planes blocks his way , You need to avoid these bombs .
 The bird has four hearts as health , Each bomb has it's own damage , some of them takes one heart , some of them takes three .
