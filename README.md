@@ -15,7 +15,7 @@ I Develope games as hobby .
 
 You are MORE THAN WELCOME to learn and develope with me this game . 
 
-* I'm a CS student and this is only a personal project for fun and learn new skills . 
+* I'm a CS student and this is a personal project for fun and learn new skills . 
 
 
 Game link :
